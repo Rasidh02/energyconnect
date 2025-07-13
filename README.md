@@ -1,2 +1,2 @@
 # energyconnect
-billing and Issue resolution system
+Billing and Issue Resolution System is a comprehensive .NET-based web application designed to simplify electricity billing and complaint management. The system serves two key roles: Users and Admins. Users can view detailed electricity bills, track real-time electricity consumption in units and corresponding pricing, and raise complaints regarding service issues, with the ability to monitor resolution status. Admins are equipped with tools to manage user accounts, generate accurate bills based on consumption data, and address complaints effectively.
